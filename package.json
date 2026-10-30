@@ -1,0 +1,12 @@
+{
+  "name": "landing-administracion-eci",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page del programa de Administración de Empresas, Escuela Colombiana de Ingeniería Julio Garavito",
+  "scripts": {
+    "verificar": "node scripts/verificar.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.63.0"
+  }
+}
